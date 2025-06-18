@@ -27,7 +27,7 @@ h1{
 */    width: 90%;
     display: flex;
     flex-wrap: wrap;
-    gap:15px;
+    gap:20px;
 }
 button{
     width: 150px;
@@ -39,10 +39,10 @@ button{
 }
 @media screen and (max-width:500px) {
     .choices{
-        width: 100%;
+        width: 90%;
     }
     .container{
-        width: 90%;
+        width: 80%;
     }
     
 }
